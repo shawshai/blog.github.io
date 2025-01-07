@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://shawshai.cn/2025/01/07/quat-2-3d-rotation/</loc>
+    
+    <lastmod>2025-01-07T12:25:03.217Z</lastmod>
+    
+    <date>1736251850000</date>
+    <title>四元数系列 - 2 三维空间中的旋转 | 少帥的博客</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>http://shawshai.cn/2024/07/18/quat-1-complex-number/</loc>
+    
+    <lastmod>2025-01-07T12:17:36.617Z</lastmod>
+    
+    <date>1721232975000</date>
+    <title>四元数系列 - 1 复数 | 少帥的博客</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>http://shawshai.cn/2025/01/07/test-private-blog/</loc>
+    
+    <lastmod>2025-01-07T05:34:51.022Z</lastmod>
+    
+    <date>1736180381000</date>
+    <title>测试加密文章 | 少帥的博客</title>
+    
+    <desc>本文需要密码才能访问</desc>
+  </url>
+  
+  <url>
     <loc>http://shawshai.cn/about/index-1</loc>
     
     <lastmod>2025-01-03T11:08:01.262Z</lastmod>
@@ -19,17 +52,6 @@
     
     <date>1620361993000</date>
     <title>关于我 | 少帥的博客</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
-    <loc>http://shawshai.cn/2024/07/18/complex-number/</loc>
-    
-    <lastmod>2025-01-03T11:08:01.246Z</lastmod>
-    
-    <date>1721232975000</date>
-    <title>四元数系列 - 1 复数 | 少帥的博客</title>
     
     <desc></desc>
   </url>
