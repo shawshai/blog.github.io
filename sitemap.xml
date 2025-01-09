@@ -57,23 +57,23 @@
   </url>
   
   <url>
-    <loc>http://shawshai.cn/about/</loc>
-    
-    <lastmod>2025-01-03T11:08:01.262Z</lastmod>
-    
-    <date>1620361993000</date>
-    <title>关于我 | 少帥的博客</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
     <loc>http://shawshai.cn/about/index-1</loc>
     
     <lastmod>2025-01-03T11:08:01.262Z</lastmod>
     
     <date>1710764524000</date>
     <title>about | 少帥的博客</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>http://shawshai.cn/about/</loc>
+    
+    <lastmod>2025-01-03T11:08:01.262Z</lastmod>
+    
+    <date>1620361993000</date>
+    <title>关于我 | 少帥的博客</title>
     
     <desc></desc>
   </url>
