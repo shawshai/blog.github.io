@@ -4,7 +4,7 @@
   <url>
     <loc>http://shawshai.cn/2025/01/08/quat-3-quaternion/</loc>
     
-    <lastmod>2025-01-09T11:23:54.668Z</lastmod>
+    <lastmod>2025-01-09T13:08:14.801Z</lastmod>
     
     <date>1736320335000</date>
     <title>四元数系列 - 3 四元数 | 少帥的博客</title>
@@ -57,23 +57,23 @@
   </url>
   
   <url>
-    <loc>http://shawshai.cn/about/index-1</loc>
-    
-    <lastmod>2025-01-03T11:08:01.262Z</lastmod>
-    
-    <date>1710764524000</date>
-    <title>about | 少帥的博客</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
     <loc>http://shawshai.cn/about/</loc>
     
     <lastmod>2025-01-03T11:08:01.262Z</lastmod>
     
     <date>1620361993000</date>
     <title>关于我 | 少帥的博客</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>http://shawshai.cn/about/index-1</loc>
+    
+    <lastmod>2025-01-03T11:08:01.262Z</lastmod>
+    
+    <date>1710764524000</date>
+    <title>about | 少帥的博客</title>
     
     <desc></desc>
   </url>
