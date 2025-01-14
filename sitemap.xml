@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://shawshai.cn/2025/01/07/quat-2-3d-rotation/</loc>
+    
+    <lastmod>2025-01-14T06:18:13.408Z</lastmod>
+    
+    <date>1736251850000</date>
+    <title>四元数系列 - 2 三维空间中的旋转 | 少帥的博客</title>
+    
+    <desc>三维空间中旋转公式的推导.</desc>
+  </url>
+  
+  <url>
     <loc>http://shawshai.cn/2025/01/08/quat-3-quaternion/</loc>
     
     <lastmod>2025-01-14T06:12:25.921Z</lastmod>
@@ -21,17 +32,6 @@
     <title>四元数系列 - 4 四元数与三维旋转 | 少帥的博客</title>
     
     <desc>讨论四元数与三维空间中旋转的关系.</desc>
-  </url>
-  
-  <url>
-    <loc>http://shawshai.cn/2025/01/07/quat-2-3d-rotation/</loc>
-    
-    <lastmod>2025-01-13T12:14:11.136Z</lastmod>
-    
-    <date>1736251850000</date>
-    <title>四元数系列 - 2 三维空间中的旋转 | 少帥的博客</title>
-    
-    <desc>三维空间中旋转公式的推导.</desc>
   </url>
   
   <url>
@@ -79,23 +79,23 @@
   </url>
   
   <url>
-    <loc>http://shawshai.cn/about/index-1</loc>
-    
-    <lastmod>2025-01-03T11:08:01.262Z</lastmod>
-    
-    <date>1710764524000</date>
-    <title>about | 少帥的博客</title>
-    
-    <desc></desc>
-  </url>
-  
-  <url>
     <loc>http://shawshai.cn/about/</loc>
     
     <lastmod>2025-01-03T11:08:01.262Z</lastmod>
     
     <date>1620361993000</date>
     <title>关于我 | 少帥的博客</title>
+    
+    <desc></desc>
+  </url>
+  
+  <url>
+    <loc>http://shawshai.cn/about/index-1</loc>
+    
+    <lastmod>2025-01-03T11:08:01.262Z</lastmod>
+    
+    <date>1710764524000</date>
+    <title>about | 少帥的博客</title>
     
     <desc></desc>
   </url>
